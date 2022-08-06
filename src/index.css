@@ -11,3 +11,109 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*  Dashboard icon {bar-chart} */
+
+position: absolute;
+width: 51px;
+height: 55px;
+left: 116px;
+top: 230px;
+background: url(icons8-bar-chart.png);
+
+/* Home icon {home} */
+
+position: absolute;
+width: 67px;
+height: 59px;
+left: 108px;
+top: 321px;
+
+background: url(icons8-home.png);
+
+/* Classroom icon {dashboard-layout} */
+
+position: absolute;
+width: 53px;
+height: 62px;
+left: 116px;
+top: 439px;
+
+background: url(icons8-dashboard-layout.png);
+
+
+/* Libraries {opened-folder} */
+
+position: absolute;
+width: 55px;
+height: 65px;
+left: 118px;
+top: 532px;
+
+background: url(icons8-opened-folder.png);
+
+/* Chatrooms {messaging} */
+
+position: absolute;
+width: 71px;
+height: 69px;
+left: 112px;
+top: 635px;
+
+background: url(icons8-messaging.png);
+
+/* Groups{add-user-group-man-man} */
+
+position: absolute;
+width: 71px;
+height: 72px;
+left: 110px;
+top: 735px;
+
+background: url(icons8-add-user-group-man-man.png);
+
+/* Explore {search-contacts} */
+
+position: absolute;
+width: 48px;
+height: 70px;
+left: 124px;
+top: 844px;
+
+background: url(icons8-search-contacts.png), url(icons8-search-contacts-96.png);
+
+
+/* Settings {gear} */
+
+position: absolute;
+width: 72px;
+height: 70px;
+left: 112px;
+top: 1002px;
+
+background: url(icons8-gear.png), url(icons8-gear-96.png), url(icons8-gear-96.png);
+
+
+/* Logout {Vector} */
+
+position: absolute;
+left: 7.05%;
+right: 91.13%;
+top: 57.45%;
+bottom: 40.71%;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+background url(icons8-logout.png)
+
+/* Icon */
+
+position: absolute;
+left: 15%;
+right: 15%;
+top: 10%;
+bottom: 10%;
+
+background: #FFFFFF;
+
+
