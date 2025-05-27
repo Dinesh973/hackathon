@@ -1,3 +1,4 @@
+<!-- 
 # SIH 2022
 Empower Learning Through Engaging Interactive Experiences
 
@@ -11,7 +12,7 @@ Empower Learning Through Engaging Interactive Experiences
   <li>[Testing]</li>
 </ol>
 
-### `Overview`
+## `Overview`
 
 ### `Why SIH-2022?`
 
@@ -21,6 +22,9 @@ This project empowers developers to create dynamic educational platforms with ea
 <li>Seamless Navigation: Effortlessly transition between components using React Router for an organized user experience.</li>
 <li>Multimedia Integration: View videos and PDFs directly within the app, enriching the learning journey.</li>
 <li>Performance Monitoring: Track key metrics to optimize user experience and application efficiency.</li>
+
+ -->
+
 
 
 
