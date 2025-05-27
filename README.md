@@ -1,5 +1,55 @@
+# SIH 2022
+Empower Learning Through Engaging Interactive Experiences
+
+
+## `Table Of Contents`
+<li>[Overview]</li>
+<ol>[Getting Started]
+  <li>[Pre-Requisite]</li>
+  <li>[Installation]</li>
+  <li>[Usage]</li>
+  <li>[Testing]</li>
+</ol>
+
+### `Overview`
+
+### `Why SIH-2022?`
+
+This project empowers developers to create dynamic educational platforms with ease. The core features include:
+<li> Robust Project Configuration: Streamlined setup with essential libraries for a smooth development workflow. </li>  
+<li>Interactive Quiz Experience: Engage users with quizzes that enhance learning and retention.</li>  
+<li>Seamless Navigation: Effortlessly transition between components using React Router for an organized user experience.</li>
+<li>Multimedia Integration: View videos and PDFs directly within the app, enriching the learning journey.</li>
+<li>Performance Monitoring: Track key metrics to optimize user experience and application efficiency.</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
-###"last comment is today"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
